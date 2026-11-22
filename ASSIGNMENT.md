@@ -29,7 +29,8 @@ handout uses `~/lab-exam`. Then run the setup block once. It builds the exam san
 not graded.
 
 ```bash
-cd ~ && git clone https://github.com/qbit-glitch/26RA2308-gitlab-exam-git-basics.git lab-exam
+cd ~ && git clone \
+    https://github.com/qbit-glitch/26RA2308-gitlab-exam-git-basics.git lab-exam
 cd ~/lab-exam && bash setup/build_workspace.sh
 ```
 
