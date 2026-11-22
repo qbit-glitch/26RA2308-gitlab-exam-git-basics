@@ -1,0 +1,110 @@
+Name   :
+Reg No :
+
+##############################################################################
+#  GIT BASICS LAB EXAM (LABS 1-12)  -  SUBMISSION FILE
+#
+#  1. Copy this file:    cp submission/outputs.template.txt submission/outputs.txt
+#  2. Write your name after "Name   :" and your registration number after "Reg No :".
+#  3. Run the setup block once (ASSIGNMENT.md, "Before you start").
+#  4. Copy each command block of ASSIGNMENT.md, run it, and paste what the terminal
+#     printed UNDER the matching "--- N.M" line, replacing "(paste output here)".
+#  5. Do not edit or delete the "=== TASK" and "--- N.M" lines.
+#  6. Check your work at any time:    python3 tests/grade.py
+##############################################################################
+
+
+=== TASK 1 : Lab 1 - Terminal navigation  (3 marks) ===
+
+--- 1.1  Move around and print the path ---
+(paste output here)
+
+--- 1.2  List everything, including hidden files ---
+(paste output here)
+
+--- 1.3  Build the project folders ---
+(paste output here)
+
+
+=== TASK 2 : Lab 2 - File operations  (3 marks) ===
+
+--- 2.1  Copy a legacy file into the project ---
+(paste output here)
+
+--- 2.2  Search the project for a word ---
+(paste output here)
+
+--- 2.3  Rename a file and delete an old one ---
+(paste output here)
+
+
+=== TASK 3 : Lab 3 - Git setup  (1 mark) ===
+
+--- 3.1  Check your Git identity ---
+(paste output here)
+
+
+=== TASK 4 : Lab 4 - Repository creation  (1 mark) ===
+
+--- 4.1  Create the repository and check its status ---
+(paste output here)
+
+
+=== TASK 5 : Lab 5 - Commit operations  (2 marks) ===
+
+--- 5.1  Stage everything and make the first commit ---
+(paste output here)
+
+--- 5.2  Change a file, read the diff, commit, and read the log ---
+(paste output here)
+
+
+=== TASK 6 : Lab 6 - History and undo  (2 marks) ===
+
+--- 6.1  Throw away an unwanted change ---
+(paste output here)
+
+--- 6.2  Undo a commit safely with revert ---
+(paste output here)
+
+
+=== TASK 7 : Lab 7 - Branching  (1 mark) ===
+
+--- 7.1  Create a feature branch, commit on it, and list the branches ---
+(paste output here)
+
+
+=== TASK 8 : Lab 8 - Merging  (1 mark) ===
+
+--- 8.1  Merge the feature branch into main ---
+(paste output here)
+
+
+=== TASK 9 : Lab 9 - Push and pull  (1 mark) ===
+
+--- 9.1  Connect to the remote, push main, pull, and check the sync status ---
+(paste output here)
+
+
+=== TASK 10 : Lab 10 - Forks and the upstream remote  (1 mark) ===
+
+--- 10.1  Add the upstream remote and list the remotes ---
+(paste output here)
+
+
+=== TASK 11 : Lab 11 - Pull requests (branch and push)  (2 marks) ===
+
+--- 11.1  Make a review branch and publish it ---
+(paste output here)
+
+--- 11.2  Make a review change on the branch, commit it, and push it ---
+(paste output here)
+
+
+=== TASK 12 : Lab 12 - CI workflow and release tags  (2 marks) ===
+
+--- 12.1  Create the CI workflow file, commit it, and read it back ---
+(paste output here)
+
+--- 12.2  Tag a release and push the tag ---
+(paste output here)

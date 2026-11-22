@@ -1,0 +1,9 @@
+submission/outputs.txt
+submission/results.txt
+workspace/
+remote/
+__pycache__/
+*.pyc
+
+# CCR context directory
+.ccr/
